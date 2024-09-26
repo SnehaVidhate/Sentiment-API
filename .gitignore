@@ -1,0 +1,14 @@
+
+# Ignore virtual environment folder
+myenv/
+
+# Ignore __pycache__ folders
+__pycache__/
+
+# Ignore system files
+*.py[cod]
+*.env
+*.log
+
+# Ignore CSV files if you don't want to commit them
+*.csv
